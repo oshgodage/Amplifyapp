@@ -4,3 +4,5 @@ Create a React application,
 Initialize a GitHub repository,
 Deploy the app with AWS Amplify,
 Implement code changes and redeploy app
+
+Hosted domain name-: https://main.d4tx1ea0ivshc.amplifyapp.com/
